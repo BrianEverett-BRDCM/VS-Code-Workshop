@@ -4,7 +4,7 @@ The **Praga V3S** is an all-terrain multi-purpose truck, produced between 1953 a
 
 ![AEM Delete](/images/delete.png)
 
-![V3S](/images/v3s.png)
+![V3S](/images/v3s.jpg)
 
 [Broadcom Tech Docs](http://www.techdocs.broadcom.com)
 
